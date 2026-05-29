@@ -1,4 +1,4 @@
 # yash-project1
 This is My First Git Repository.
 <br>
-Author-yash Yadav
+Author-Yash Yadav
